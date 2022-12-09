@@ -9,4 +9,4 @@ Welcome to my Github. Thanks for visiting! If you are looking for some examples 
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headblockhead" /> <img align="top" src="https://github-readme-stats.vercel.app/api?username=headblockhead&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headblockhead" /> <img align="top" src="https://github-readme-stats.vercel.app/api?username=headblockhead&count_private=true&show_icons=true&theme=radical" />
