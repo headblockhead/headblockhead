@@ -7,4 +7,4 @@ Welcome to my Github. Thanks for visiting! If you are looking for some examples 
   <img src="https://profile-counter.glitch.me/headblockhead/count.svg" />
 </p>
 
----
+[![An image of @headblockhead's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/headblockhead)](https://holopin.io/@headblockhead)
