@@ -1,0 +1,11 @@
+name: Update the yearly counter
+on: 
+  schedule:
+    - cron: "0 0 1 1 *" # At 00:00 every January 1st
+
+jobs:
+  increment-year:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+    - run: 'sed -i -e "s/headblockhead-[0-9]\{4\}/headblockhead-`date +"%Y"`/g" README.md' # replaces headblockhead-XXXX with headblockhead-currentyear
