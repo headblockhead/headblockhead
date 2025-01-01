@@ -10,7 +10,7 @@ Welcome to my Github. Thanks for visiting! If you are looking for some examples 
 
 <p align="center"> 
   Page views this year: <br>
-  <img src="https://profile-counter.glitch.me/headblockhead-2024/count.svg" />
+  <img src="https://profile-counter.glitch.me/headblockhead-2025/count.svg" />
 </p>
 
 ---
