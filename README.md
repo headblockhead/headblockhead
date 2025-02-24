@@ -1,20 +1,13 @@
-## Hello! :wave:
+## Edward Hesketh
 
-Welcome to my Github. Thanks for visiting! If you are looking for some examples of my code and the projects I have made, please explore my pinned repositories below. If you would like to, you can check out my casual [blog](https://headblockhead.com) over at my website!
+Hello! :wave:
 
----
-
-[![An image of @headblockhead's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/headblockhead)](https://holopin.io/@headblockhead)
-
----
-
-<p align="center"> 
-  Page views this year: <br>
-  <img src="https://profile-counter.glitch.me/headblockhead-2025/count.svg" />
-</p>
+If you are looking for some examples of the projects I have made, please explore my pinned repositories below, or browse my repository list.</br>
+For a slightly more in-depth look at me, some of my work, and contact details, see my website, [edwardh.dev](https://edwardh.dev/) (work-in-progress).
 
 ---
-<h3>Authenticaton:</h3>
 
-<a href="https://github.com/headblockhead.keys">Public SSH key</a>
-<a  href="https://github.com/headblockhead.gpg">Public GPG key</a>
+Hey, remember view counters? Here's one for my profile this month!
+
+
+<img src="https://profile-counter.glitch.me/headblockhead-2025-02/count.svg" />
