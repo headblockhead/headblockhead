@@ -10,4 +10,4 @@ For a slightly more in-depth look at me, some of my work, and contact details, s
 Hey, remember view counters? Here's one for my profile this month!
 
 
-<img src="https://profile-counter.glitch.me/headblockhead-2025-03/count.svg" />
+<img src="https://profile-counter.glitch.me/headblockhead-2025-04/count.svg" />
