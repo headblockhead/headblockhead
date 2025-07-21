@@ -1,8 +1,9 @@
 name: Update the monthly view counter
 on: 
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 1 * *" # At 00:00 every 1st of each month.
+  # currently disabled
+  # schedule:
+  #   - cron: "0 0 1 * *" # At 00:00 every 1st of each month.
 
 jobs:
   increment-year:
